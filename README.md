@@ -14,7 +14,7 @@ My name is Nurkhan, and I'm excited to welcome you to my GitHub profile!
 - **Additional Skills:** Algorithm design, backend development.
 
 ## My Projects
-- [GrandCert](link to project) - A project I'm currently working on and learning from.
+- [GrandCert](private) - A project I'm currently working on and learning from.
 
 ## Contact Me
 - 📧 Email: [kenzhebaevnurkhan@gmail.com](mailto:kenzhebaevnurkhan@gmail.com)
