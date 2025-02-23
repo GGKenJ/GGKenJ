@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, World! 👋
 
-<!--
-**GGKenJ/GGKenJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nurkhan, and I'm excited to welcome you to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 I'm currently learning JavaScript (Node.js, React.js) and algorithms.
+- 💻 I have experience with C++.
+- 🌱 I’m currently working on a project and learning how to build projects (GrandCert).
+- 📫 How to reach me: [email](mailto:kenzhebaevnurkhan@gmail.com) or [Telegram](https://t.me/ggkenj).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+- **Programming Languages:** JavaScript (Node.js, React.js), C++.
+- **Tools:** WebStorm, Visual Studio, CLion.
+- **Additional Skills:** Algorithm design, backend development.
+
+## My Projects
+- [GrandCert](link to project) - A project I'm currently working on and learning from.
+
+## Contact Me
+- 📧 Email: [kenzhebaevnurkhan@gmail.com](mailto:kenzhebaevnurkhan@gmail.com)
+- 📱 Telegram: [@ggkenj](https://t.me/ggkenj)
+
+Thanks for visiting my profile! 😊
